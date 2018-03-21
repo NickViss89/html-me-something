@@ -1,0 +1,17 @@
+div img{
+    width:400px;
+    height:400px;
+ 
+    object-fit:scale-down;
+ 
+ }
+
+ body div h1{
+     text-align: center;
+ }
+
+ div {
+     margin: auto;
+     width: 50%;
+     text-align: left;
+ }
