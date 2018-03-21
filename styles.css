@@ -1,17 +1,37 @@
+
 div img{
-    width:400px;
-    height:400px;
- 
+    width:300px;
+    height:300px;
     object-fit:scale-down;
- 
+    margin:auto;
+    width: 75%;
+    padding: 10px;
  }
 
  body div h1{
      text-align: center;
+     font-size: 50px;
+     background-color:00FFFF;
  }
 
  div {
      margin: auto;
      width: 50%;
      text-align: left;
+     background-color:A9A9A9;
  }
+
+div h2{
+    font-size:30px;
+    font-style:italic;
+    text-align:center;
+}
+
+ul li{
+    font-size:20px;
+    font-style:bold;
+}
+
+p{
+    font-family:cursive;
+}
