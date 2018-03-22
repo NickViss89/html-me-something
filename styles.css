@@ -8,7 +8,7 @@ div img{
     padding: 10px;
  }
 
- header h1{
+ .head{
      text-align: center;
      font-size: 50px;
      background-color:00FFFF;
@@ -34,16 +34,20 @@ ul li{
     font-size:20px;
     font-style:bold;
 }
+#firstthing{
+    font-size:20px;
+    font-style:bold;
+}
 
 p{
-    font-family:cursive;
-    background-color:F0F8FF;
+    font-family:Arial;
     text-align:left;
+    margin:auto;
+    padding:20px;
 
 }
 article {
-    font-family:cursive;
-    background-color:f0f8ff;
+    font-family:Arial;
     text-align:left;
 }
 footer p {
