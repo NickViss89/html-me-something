@@ -8,10 +8,13 @@ div img{
     padding: 10px;
  }
 
- body div h1{
+ header h1{
      text-align: center;
      font-size: 50px;
      background-color:00FFFF;
+ }
+ h2 {
+     background-color:ffff00;
  }
 
  div {
@@ -34,4 +37,16 @@ ul li{
 
 p{
     font-family:cursive;
+    background-color:F0F8FF;
+    text-align:left;
+
+}
+article {
+    font-family:cursive;
+    background-color:f0f8ff;
+    text-align:left;
+}
+footer p {
+    font-family:'Courier New';
+    background-color:ffffff;
 }
